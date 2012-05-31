@@ -30,10 +30,10 @@
 <p>Caso voce queira nos ajudar a melhorar esse repositorio entre em contato atraves do <strong>@culturadigitalbr</strong> ou <strong>fabiano.rangel@gmail.com</strong>.</p>
 
 
-<h3>Informacoes sobre licensa</h3>
+<h3>Informacoes sobre licenca</h3>
 ---------------------------------
 
-Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 2.5 Brasil (CC BY-NC-SA 2.5)
+<strong>Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 2.5 Brasil (CC BY-NC-SA 2.5)</strong>
 
 Você tem a liberdade de: 
 	- Compartilhar — copiar, distribuir e transmitir a obra.
