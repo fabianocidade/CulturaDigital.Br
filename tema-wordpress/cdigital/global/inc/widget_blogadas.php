@@ -75,7 +75,7 @@ class Widget_ultimas_blog extends WP_Widget
 							<a href="<?php bp_blog_permalink() ?>"><?php bp_blog_avatar('type=medium&width=55&height=55') ?></a></div>
 							
 							<div class="infoBlog">
-								<span class="nomeBlog"><a href="<?php bp_blog_permalink() ?>"><?php print bp_get_blog_name(); ?></a></span>
+								<span class="nomeBlog"><a href="<?php bp_blog_permalink() ?>"><?php limit_chars(bp_get_blog_name(), 36); ?></a></span>
 								<br /><span class="tituloPostBlog2"><a href="<?php bp_blog_permalink() ?>" title="">
 						<?php bp_blog_latest_post() ?></a></span>
 							</div>
