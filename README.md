@@ -1,12 +1,12 @@
-<h1>Repositorio de dados - CulturaDigital.Br</h1>
+<h1>Repositorio de dados publicos - CulturaDigital.Br</h1>
 
 
 
 <h2>Sobre o Projeto</h2>
 =================================
 
-Neste repositorio encontram-se toda a programacao envolvida no desenvolvimento web do projeto CulturaDigital.Br.
-Nos ajude a melhorar os codigos aqui apresentados participando como colaborador.
+<p>Neste repositorio encontram-se todos os arquivos referentes a programacao envolvida no projeto CulturaDigital.Br.</p>
+<p>Nos ajude a melhorar os codigos aqui apresentados, participando como colaborador desta iniciativa.</p>
 
 
 <h3>Instalacao</h3>
@@ -22,18 +22,19 @@ Nos ajude a melhorar os codigos aqui apresentados participando como colaborador.
 <h3>O que voce podera encontrar aqui</h3>
 ----------------------------------
 
-<strong>tema wordpress cultura digital.br</strong> - Tema WordPress (tema voltado para rede social com BuddyPress)
-<strong>plugins</strong>                           - Funcionalidades interativas
-<strong>tema mobile</strong>                       - Carregado atraves de funcao de checagem de mobile ou atraves do plugin mobilepress
+<p><strong>tema wordpress cultura digital.br</strong> - Tema WordPress (tema voltado para rede social com BuddyPress)</p>
+<p><strong>plugins</strong>                           - Funcionalidades interativas</p>
+<p><strong>tema mobile</strong>                       - Carregado atraves de funcao de checagem de mobile ou atraves do plugin mobilepress</p>
 
 
-Caso voce queira nos ajudar a melhorar esse repositorio entre em contato atraves do <strong>@culturadigitalbr</strong> ou <strong>fabiano.rangel@gmail.com</strong>.
+<p>Caso voce queira nos ajudar a melhorar esse repositorio entre em contato atraves do <strong>@culturadigitalbr</strong> ou <strong>fabiano.rangel@gmail.com</strong>.</p>
 
 
 <h3>Informacoes sobre licensa</h3>
 ---------------------------------
 
 Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 2.5 Brasil (CC BY-NC-SA 2.5)
+
 Você tem a liberdade de: 
 	- Compartilhar — copiar, distribuir e transmitir a obra.
 	- Remixar — criar obras derivadas. 
