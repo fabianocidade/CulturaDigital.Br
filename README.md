@@ -36,8 +36,11 @@
 <strong>Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 2.5 Brasil (CC BY-NC-SA 2.5)</strong>
 
 Você tem a liberdade de: 
-	- Compartilhar — copiar, distribuir e transmitir a obra.
-	- Remixar — criar obras derivadas. 
+
+  - Compartilhar — copiar, distribuir e transmitir a obra.
+
+  - Remixar — criar obras derivadas. 
+
 
 Sob as seguintes condições:
 
