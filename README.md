@@ -22,12 +22,12 @@ Nos ajude a melhorar os codigos aqui apresentados participando como colaborador.
 <h3>O que voce podera encontrar aqui</h3>
 ----------------------------------
 
-tema wordpress cultura digital.br - Tema WordPress (tema voltado para rede social com BuddyPress)
-plugins                           - Funcionalidades interativas
-tema mobile                       - Carregado atraves de funcao de checagem de mobile ou atraves do plugin mobilepress
+<strong>tema wordpress cultura digital.br</strong> - Tema WordPress (tema voltado para rede social com BuddyPress)
+<strong>plugins</strong>                           - Funcionalidades interativas
+<strong>tema mobile</strong>                       - Carregado atraves de funcao de checagem de mobile ou atraves do plugin mobilepress
 
 
-Caso voce queira nos ajudar a melhorar esse repositorio entre em contato atraves do @culturadigitalbr ou fabiano.rangel@gmail.com
+Caso voce queira nos ajudar a melhorar esse repositorio entre em contato atraves do <strong>@culturadigitalbr</strong> ou <strong>fabiano.rangel@gmail.com</strong>.
 
 
 <h3>Informacoes sobre licensa</h3>
@@ -40,20 +40,24 @@ Você tem a liberdade de:
 
 Sob as seguintes condições:
 
-	- Atribuição — Você deve creditar a obra da forma especificada pelo autor ou licenciante (mas não de maneira que sugira que estes concedem qualquer aval a você ou ao seu uso da obra).
+  - Atribuição — Você deve creditar a obra da forma especificada pelo autor ou licenciante (mas não de maneira que sugira que estes concedem qualquer 
+  aval a você ou ao seu uso da obra).
 
-	- Uso não comercial — Você não pode usar esta obra para fins comerciais.
+  - Uso não comercial — Você não pode usar esta obra para fins comerciais.
 
-	- Compartilhamento pela mesma licença — Se você alterar, transformar ou criar em cima desta obra, você poderá distribuir a obra resultante apenas sob a mesma licença, ou sob uma licença similar à presente.
+  - Compartilhamento pela mesma licença — Se você alterar, transformar ou criar em cima desta obra, você poderá distribuir a obra resultante apenas 
+    sob a mesma licença, ou sob uma licença similar à presente.
 
 
 Ficando claro que:
 
-Renúncia — Qualquer das condições acima pode ser renunciada se você obtiver permissão do titular dos direitos autorais.
-Domínio Público — Onde a obra ou qualquer de seus elementos estiver em domínio público sob o direito aplicável, esta condição não é, de maneira alguma, afetada pela licença.
-Outros Direitos — Os seguintes direitos não são, de maneira alguma, afetados pela licença:
+<p>Renúncia — Qualquer das condições acima pode ser renunciada se você obtiver permissão do titular dos direitos autorais.</p>
+<p>Domínio Público — Onde a obra ou qualquer de seus elementos estiver em domínio público sob o direito aplicável, esta condição não é, de maneira 
+alguma, afetada pela licença.</p>
+<p>Outros Direitos — Os seguintes direitos não são, de maneira alguma, afetados pela licença:
   Limitações e exceções aos direitos autorais ou quaisquer usos livres aplicáveis;
   Os direitos morais do autor;
-  Direitos que outras pessoas podem ter sobre a obra ou sobre a utilização da obra, tais como direitos de imagem ou privacidade.
-Aviso — Para qualquer reutilização ou distribuição, você deve deixar claro a terceiros os termos da licença a que se encontra submetida esta obra. A melhor maneira de fazer isso é com um link para esta página.
+  Direitos que outras pessoas podem ter sobre a obra ou sobre a utilização da obra, tais como direitos de imagem ou privacidade.</p>
+<p>Aviso — Para qualquer reutilização ou distribuição, você deve deixar claro a terceiros os termos da licença a que se encontra submetida esta 
+obra. A melhor maneira de fazer isso é com um link para esta página.</p>
  
